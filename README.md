@@ -1,6 +1,6 @@
 ## Hi, I'm Shaowen Si 👋
 
-`CS student` · `Full-stack builder` · `Photographer`
+`IT student` · `FE & Full-stack builder` · `Photographer`
 
 I like building software that feels calm, intentional, and visually clear.
 Most of my work sits between engineering and image-based storytelling:
@@ -10,7 +10,6 @@ frontend systems, media workflows, and full-stack products shaped by photography
 
 - GitHub: [@SuperShawnSi](https://github.com/SuperShawnSi)
 - Email: [supershawnsi@gmail.com](mailto:supershawnsi@gmail.com)
-- Red Note: [Photography Notes](https://www.xiaohongshu.com/user/profile/60ab4fb3000000000101d3e2)
 
 ### 🚀 Featured Project
 
