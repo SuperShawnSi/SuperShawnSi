@@ -1,0 +1,70 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">PPASS featured project card</title>
+  <desc id="desc">A showcase card for the PPASS photography platform with architecture blocks and stack labels.</desc>
+  <defs>
+    <linearGradient id="cardBg" x1="64" y1="32" x2="1110" y2="510" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9F6F0"/>
+      <stop offset="1" stop-color="#F3EFE7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="520" rx="28" fill="url(#cardBg)"/>
+  <rect x="28" y="28" width="1144" height="464" rx="20" stroke="#D9D2C5"/>
+  <path d="M600 76V444" stroke="#DDD6C9"/>
+
+  <text x="78" y="108" fill="#6E6A63" font-family="Helvetica, Arial, sans-serif" font-size="15" letter-spacing="4">FEATURED BUILD</text>
+  <text x="78" y="170" fill="#151B20" font-family="Georgia, 'Times New Roman', serif" font-size="56">PP@SS</text>
+  <text x="78" y="208" fill="#151B20" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-style="italic">A photography platform for public presentation and private operations.</text>
+
+  <text x="78" y="262" fill="#596068" font-family="Helvetica, Arial, sans-serif" font-size="20">Built as a full-stack system instead of a static gallery clone.</text>
+  <text x="78" y="292" fill="#596068" font-family="Helvetica, Arial, sans-serif" font-size="20">The product handles upload flows, EXIF extraction, protected media,</text>
+  <text x="78" y="322" fill="#596068" font-family="Helvetica, Arial, sans-serif" font-size="20">archive search, and admin-side content management in one workflow.</text>
+
+  <g transform="translate(78 368)">
+    <rect x="0" y="0" width="108" height="34" rx="17" fill="#E8E2D8"/>
+    <text x="20" y="22" fill="#1B2229" font-family="Helvetica, Arial, sans-serif" font-size="15">Next.js 16</text>
+    <rect x="124" y="0" width="102" height="34" rx="17" fill="#E8E2D8"/>
+    <text x="145" y="22" fill="#1B2229" font-family="Helvetica, Arial, sans-serif" font-size="15">React 19</text>
+    <rect x="242" y="0" width="118" height="34" rx="17" fill="#E8E2D8"/>
+    <text x="264" y="22" fill="#1B2229" font-family="Helvetica, Arial, sans-serif" font-size="15">Supabase</text>
+    <rect x="376" y="0" width="78" height="34" rx="17" fill="#E8E2D8"/>
+    <text x="404" y="22" fill="#1B2229" font-family="Helvetica, Arial, sans-serif" font-size="15">R2</text>
+  </g>
+
+  <g transform="translate(78 424)">
+    <path d="M0 0H462" stroke="#1466B8" stroke-width="2"/>
+    <text x="0" y="28" fill="#1466B8" font-family="Helvetica, Arial, sans-serif" font-size="15" letter-spacing="3">PUBLIC GALLERY / IMAGE LAB / SECURE STORAGE / ADMIN OPS</text>
+  </g>
+
+  <g transform="translate(666 110)">
+    <rect x="0" y="0" width="188" height="92" rx="16" fill="#FAF7F2" stroke="#D9D2C5"/>
+    <text x="22" y="36" fill="#151B20" font-family="Georgia, 'Times New Roman', serif" font-size="28">Public Gallery</text>
+    <text x="22" y="62" fill="#5A6169" font-family="Helvetica, Arial, sans-serif" font-size="16">Asymmetric homepage</text>
+    <text x="22" y="82" fill="#5A6169" font-family="Helvetica, Arial, sans-serif" font-size="16">Archive + detail pages</text>
+
+    <rect x="250" y="0" width="188" height="92" rx="16" fill="#FAF7F2" stroke="#D9D2C5"/>
+    <text x="272" y="36" fill="#151B20" font-family="Georgia, 'Times New Roman', serif" font-size="28">Image Lab</text>
+    <text x="272" y="62" fill="#5A6169" font-family="Helvetica, Arial, sans-serif" font-size="16">Browser compression</text>
+    <text x="272" y="82" fill="#5A6169" font-family="Helvetica, Arial, sans-serif" font-size="16">EXIF + blur + watermark</text>
+
+    <rect x="0" y="162" width="188" height="92" rx="16" fill="#FAF7F2" stroke="#D9D2C5"/>
+    <text x="22" y="198" fill="#151B20" font-family="Georgia, 'Times New Roman', serif" font-size="28">Storage Layer</text>
+    <text x="22" y="224" fill="#5A6169" font-family="Helvetica, Arial, sans-serif" font-size="16">Supabase PostgreSQL</text>
+    <text x="22" y="244" fill="#5A6169" font-family="Helvetica, Arial, sans-serif" font-size="16">Cloudflare R2</text>
+
+    <rect x="250" y="162" width="188" height="92" rx="16" fill="#FAF7F2" stroke="#D9D2C5"/>
+    <text x="272" y="198" fill="#151B20" font-family="Georgia, 'Times New Roman', serif" font-size="28">Admin Ops</text>
+    <text x="272" y="224" fill="#5A6169" font-family="Helvetica, Arial, sans-serif" font-size="16">Upload, publish, edit</text>
+    <text x="272" y="244" fill="#5A6169" font-family="Helvetica, Arial, sans-serif" font-size="16">Collection management</text>
+
+    <path d="M188 46H250" stroke="#1466B8" stroke-width="2" stroke-dasharray="6 8"/>
+    <path d="M94 92V162" stroke="#1466B8" stroke-width="2" stroke-dasharray="6 8"/>
+    <path d="M344 92V162" stroke="#1466B8" stroke-width="2" stroke-dasharray="6 8"/>
+    <path d="M188 208H250" stroke="#1466B8" stroke-width="2" stroke-dasharray="6 8"/>
+
+    <circle cx="219" cy="46" r="5.5" fill="#1466B8"/>
+    <circle cx="94" cy="127" r="5.5" fill="#1466B8"/>
+    <circle cx="344" cy="127" r="5.5" fill="#1466B8"/>
+    <circle cx="219" cy="208" r="5.5" fill="#1466B8"/>
+  </g>
+</svg>
