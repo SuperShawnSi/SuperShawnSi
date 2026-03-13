@@ -13,7 +13,7 @@ frontend systems, media workflows, and full-stack products shaped by photography
 
 ### 🚀 Featured Project
 
-#### [PP@SS](https://github.com/SuperShawnSi/photography-portfolio)
+#### PP@SS
 
 A full-stack photography platform built for both portfolio presentation and content operations.
 
