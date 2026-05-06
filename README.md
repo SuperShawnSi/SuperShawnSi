@@ -15,7 +15,7 @@ I have built projects across feedback insight, machine learning pipelines, Spark
 
 ### Featured Work
 
-#### Data Analytics Portfolio
+#### [Data Analytics Portfolio](https://github.com/SuperShawnSi/data-analytics-portfolio)
 
 Selected public case studies for data analyst applications.
 
@@ -23,7 +23,7 @@ Selected public case studies for data analyst applications.
 - Sydney property analysis: data cleaning, feature engineering, leakage control, and model evaluation
 - Spark text processing: yearly topic discovery, document frequency, grid indexing, and prefix filtering
 
-#### Academic Course Insight Assistant
+#### [Academic Course Insight Assistant](https://github.com/SuperShawnSi/academic-course-insight-assistant)
 
 A team capstone project for querying student course feedback in plain English and returning structured reports with themes, evidence, confidence, limitations, and recommendations.
 
@@ -32,7 +32,7 @@ A team capstone project for querying student course feedback in plain English an
 - Used privacy thresholds to avoid over-interpreting small samples
 - Final demo received client feedback that the project "definitely met the brief"
 
-#### PP@SS
+#### [PP@SS](https://github.com/SuperShawnSi/ppss-photography-platform)
 
 A full-stack photography platform built for portfolio presentation and content operations.
 
